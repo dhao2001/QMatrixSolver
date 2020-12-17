@@ -14,7 +14,6 @@ SOURCES += \
     qmatrix_solver_mainwindow.cpp
 
 HEADERS += \
-    cMC_Matrix.hpp \
     matrixwidget.h \
     qmatrix_solver_mainwindow.h
 
